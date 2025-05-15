@@ -36,8 +36,8 @@ function Projects() {
               imgPath={bitsOfCode}
               isBlog={false}
               title="3-Tier Application"
-              description="Three-Tier Application are Deployed on AWS EKS."
-              ghLink="https://github.com/muazahmadma/Three-tier-application---AWS-EKS"
+              description="Deployed a highly secure, three-tier application on AWS ECS using Terraform. The architecture includes a VPC with public and private subnets, an Application Load Balancer for traffic management, ECS tasks for frontend and backend services, and an RDS database in a private subnet. The setup ensures scalability, security, and high availability"
+              ghLink="https://github.com/muazahmadma/3-Tier-application-on-AWS-ECS-with-Terraform"
             />
           </Col>
 
@@ -47,7 +47,8 @@ function Projects() {
               isBlog={false}
               title="DevSecOps-Pipeline"
               description="Build a DevSecOps Jenkins CI/CD Pipeline."
-              ghLink="https://github.com/muazahmadma/DevSecOps-Jenkins-CI-CD-Pipeline"              
+              ghLink="https://github.com/muazahmadma/DevSecOps-Jenkins-CI-CD-Pipeline"
+              BlogLink="https://medium.com/@muazkhan098/deploying-a-3-tier-application-on-aws-ecs-using-terraform-5f1403c752e0"              
             />
           </Col>
 

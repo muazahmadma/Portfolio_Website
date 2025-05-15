@@ -47,8 +47,7 @@ function Projects() {
               isBlog={false}
               title="DevSecOps-Pipeline"
               description="Build a DevSecOps Jenkins CI/CD Pipeline."
-              ghLink="https://github.com/muazahmadma/DevSecOps-Jenkins-CI-CD-Pipeline"
-              blogLink="https://medium.com/@muazkhan098/deploying-a-3-tier-application-on-aws-ecs-using-terraform-5f1403c752e0"              
+              ghLink="https://github.com/muazahmadma/DevSecOps-Jenkins-CI-CD-Pipeline"              
             />
           </Col>
 

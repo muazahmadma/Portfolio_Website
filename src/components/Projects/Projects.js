@@ -26,7 +26,7 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="2-Tier Application"
-              description="Two-tier Application are deployed on my local using Docker."
+              description="Two-tier Pyhton Flask Application are deployed on my local Machine using Docker compose.The application consists of a Flask App container and a database container. Docker Compose create the multi container enviroment, networking, and persistent storage setup for seamless development and testing."
               ghLink="https://github.com/muazahmadma/Two-tier-application---Docker"
             />
           </Col>

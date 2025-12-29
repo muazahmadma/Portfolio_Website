@@ -45,9 +45,9 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="DevSecOps-Pipeline"
-              description="Build a DevSecOps Jenkins CI/CD Pipeline."
-              ghLink="https://github.com/muazahmadma/DevSecOps-Jenkins-CI-CD-Pipeline"              
+              title="Jenkins CICD - DevSevOps Pipeline"
+              description="Deployed a containerized PHP application using Jenkins CICD DevSecOps Pipeline. The Pipeline first commit and pull the code in Agent node, Build it, Code smell using Sonarqube, image push to docker hub, Scan the image using Trivy. Finally, deployed by docker compose. "
+              ghLink="https://github.com/muazahmadma/php-application-with-CICD.git"              
             />
           </Col>
 

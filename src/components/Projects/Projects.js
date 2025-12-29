@@ -25,8 +25,8 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="2-Tier Application"
-              description="Two-tier Pyhton Flask Application are deployed on my local Machine using Docker compose.The application consists of a Flask App container and a database container. Docker Compose create the multi container enviroment, networking, and persistent storage setup for seamless development and testing."
+              title="Dockerized Python Application"
+              description="Deployed a Two-tier Pyhton Flask Application on my local Machine using Docker compose.The application consists of a Flask App container and a database container. Docker Compose create the multi container enviroment, networking, and persistent storage setup for seamless development and testing."
               ghLink="https://github.com/muazahmadma/Two-tier-application---Docker"
             />
           </Col>
@@ -35,7 +35,7 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="3-Tier Application"
+              title="3-Tier Application on ECS with Terraform"
               description="Deployed a highly secure, three-tier application on AWS ECS using Terraform. The architecture includes a VPC with public and private subnets, an Application Load Balancer for traffic management, ECS tasks for frontend and backend services, and an RDS database in a private subnet. The setup ensures scalability, security, and high availability"
               ghLink="https://github.com/muazahmadma/3-Tier-application-on-AWS-ECS-with-Terraform"
             />

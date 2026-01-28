@@ -13,6 +13,7 @@ function AboutCard() {
             <br />
             Have 1+ year of experience in DevOps and Currently working as a Junior DevOps Engineer at Enzipe.
             <br />
+            <br /> 
             Apart from building and scaling the infrastructure, some other activities that I love to do!
           </p>
           <ul>

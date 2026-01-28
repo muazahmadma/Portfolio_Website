@@ -8,15 +8,12 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Muaz Ahmad </span>
+            Hi Everyone, This is <span className="purple">Muaz Ahmad </span>
             from <span className="purple"> Faisalabad, Pakistan.</span>
             <br />
-            I am currently employed as a Associate DevOps Engineer at Kryptomind.
+            Have 1+ year of experience in DevOps and Currently working as a Junior DevOps Engineer at Enzipe.
             <br />
-            I am pursuing my bachelor's degree in computer science at Virtual University of Paksitan.
-            <br />
-            <br />
-            Apart from coding, some other activities that I love to do!
+            Apart from building and scaling the infrastructure, some other activities that I love to do!
           </p>
           <ul>
             <li className="about-activity">
@@ -26,7 +23,7 @@ function AboutCard() {
               <ImPointRight /> Writing Tech Blogs
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> Bike Riding
             </li>
           </ul>
 
